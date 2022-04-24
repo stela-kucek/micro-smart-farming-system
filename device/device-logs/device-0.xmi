@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:msfs_0401="http://www.example.org/msfs_0401">
+  <msfs_0401:Log timestamp="2020-06-14T16:50:11.195+0200" aspect="Soil Humidity">
+    <loggedAspect xsi:type="msfs_0401:SoilHumidity">
+      <spec unit="%" value="91.01"/>
+    </loggedAspect>
+    <position/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="1" timestamp="2020-06-14T16:50:21.195+0200" aspect="Soil Humidity">
+    <loggedAspect xsi:type="msfs_0401:SoilHumidity">
+      <spec unit="%" value="72.34"/>
+    </loggedAspect>
+    <position/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="2" timestamp="2020-06-14T16:50:31.200+0200" aspect="Soil Humidity">
+    <loggedAspect xsi:type="msfs_0401:SoilHumidity">
+      <spec unit="%" value="42.97"/>
+    </loggedAspect>
+    <position/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="3" timestamp="2020-06-14T16:50:41.199+0200" aspect="Soil Humidity">
+    <loggedAspect xsi:type="msfs_0401:SoilHumidity">
+      <spec unit="%" value="11.3"/>
+    </loggedAspect>
+    <position/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="4" timestamp="2020-06-14T16:50:51.198+0200" aspect="Soil Humidity">
+    <loggedAspect xsi:type="msfs_0401:SoilHumidity">
+      <spec unit="%" value="22.21"/>
+    </loggedAspect>
+    <position/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="5" timestamp="2020-06-14T16:51:01.194+0200" aspect="Soil Humidity">
+    <loggedAspect xsi:type="msfs_0401:SoilHumidity">
+      <spec unit="%" value="47.88"/>
+    </loggedAspect>
+    <position/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="6" timestamp="2020-06-14T16:51:11.208+0200" aspect="Soil Humidity">
+    <loggedAspect xsi:type="msfs_0401:SoilHumidity">
+      <spec unit="%" value="58.69"/>
+    </loggedAspect>
+    <position/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="7" timestamp="2020-06-14T17:05:11.217+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth"/>
+    <position/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="8" timestamp="2020-06-14T17:05:21.207+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="young"/>
+    <position/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="9" timestamp="2020-06-14T17:05:31.211+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="adult"/>
+    <position/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="10" timestamp="2020-06-14T17:05:41.206+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="seedling"/>
+    <position/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="11" timestamp="2020-06-14T17:05:51.209+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth"/>
+    <position/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="12" timestamp="2020-06-14T17:06:01.204+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth"/>
+    <position/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="13" timestamp="2020-06-14T17:06:11.207+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="fruit"/>
+    <position/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="14" timestamp="2020-06-14T17:06:26.206+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth"/>
+    <position/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="15" timestamp="2020-06-14T17:06:31.205+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="young"/>
+    <position/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="16" timestamp="2020-06-14T17:18:11.958+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="17" timestamp="2020-06-14T17:25:51.946+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="seedling"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="18" timestamp="2020-06-14T17:29:51.945+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="seedling"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="19" timestamp="2020-06-14T17:33:51.944+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="adult"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="20" timestamp="2020-06-14T17:35:51.997+0200" aspect="Irrigating">
+    <loggedAspect xsi:type="msfs_0401:Irrigating">
+      <spec unit="L" value="2.0"/>
+    </loggedAspect>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="21" timestamp="2020-06-14T17:36:51.946+0200" aspect="Fertilizing">
+    <loggedAspect xsi:type="msfs_0401:Fertilizing">
+      <spec unit="g" value="2.5"/>
+    </loggedAspect>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="22" timestamp="2020-06-14T17:37:51.941+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="seedling"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="23" timestamp="2020-06-14T17:46:11.943+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="young"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="24" timestamp="2020-06-14T17:50:26.946+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="young"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="25" timestamp="2020-06-14T17:56:41.947+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="young"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="26" timestamp="2020-06-14T17:57:41.945+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="adult"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="27" timestamp="2020-06-14T18:00:11.942+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="28" timestamp="2020-06-14T18:00:41.946+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="young"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="29" timestamp="2020-06-14T18:01:11.944+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="young"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="30" timestamp="2020-06-14T18:01:41.947+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="fruit"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="31" timestamp="2020-06-14T18:02:01.943+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="adult"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="32" timestamp="2020-06-14T18:38:20.695+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="33" timestamp="2020-06-14T18:38:50.687+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="fruit"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="34" timestamp="2020-06-14T22:37:02.249+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="young"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="35" timestamp="2020-06-14T22:37:32.235+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="fruit"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="36" timestamp="2020-06-14T23:03:40.553+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="37" timestamp="2020-06-14T23:04:05.541+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="adult"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="38" timestamp="2020-06-14T23:06:33.693+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="seedling"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="39" timestamp="2020-06-14T23:07:03.681+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="fruit"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="40" timestamp="2020-06-14T23:07:18.684+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="fruit"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="41" timestamp="2020-06-14T23:07:38.680+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="adult"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="42" timestamp="2020-06-14T23:10:41.340+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="seedling"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="43" timestamp="2020-06-14T23:18:10.510+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="fruit"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="44" timestamp="2020-06-14T23:18:30.490+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="young"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="45" timestamp="2020-06-14T23:18:40.489+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="young"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="46" timestamp="2020-06-14T23:42:27.198+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="adult"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="47" timestamp="2020-06-14T23:42:37.079+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="fruit"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="48" timestamp="2020-06-14T23:42:57.081+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="young"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="49" timestamp="2020-06-14T23:43:07.078+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="fruit"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="50" timestamp="2020-06-14T23:43:27.080+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="young"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="51" timestamp="2020-06-14T23:43:37.080+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="seedling"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="52" timestamp="2020-06-14T23:43:47.080+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="53" timestamp="2020-06-14T23:43:57.084+0200" aspect="Irrigating">
+    <loggedAspect xsi:type="msfs_0401:Irrigating">
+      <spec unit="L" value="1.0"/>
+    </loggedAspect>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="54" timestamp="2020-06-14T23:44:02.081+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="seedling"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="55" timestamp="2020-06-14T23:44:12.081+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="seedling"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="56" timestamp="2020-06-14T23:44:22.079+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="young"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="57" timestamp="2020-06-14T23:44:32.078+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="seedling"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="58" timestamp="2020-06-14T23:44:47.081+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="59" timestamp="2020-06-14T23:44:57.077+0200" aspect="Irrigating">
+    <loggedAspect xsi:type="msfs_0401:Irrigating">
+      <spec unit="L" value="1.0"/>
+    </loggedAspect>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="60" timestamp="2020-06-14T23:45:02.081+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="young"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="61" timestamp="2020-06-14T23:45:12.079+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="fruit"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="62" timestamp="2020-06-14T23:45:32.078+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="young"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="63" timestamp="2020-06-14T23:45:42.085+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="fruit"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="64" timestamp="2020-06-14T23:45:57.077+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="65" timestamp="2020-06-14T23:46:07.078+0200" aspect="Irrigating">
+    <loggedAspect xsi:type="msfs_0401:Irrigating">
+      <spec unit="L" value="1.0"/>
+    </loggedAspect>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="66" timestamp="2020-06-14T23:46:17.080+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="fruit"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="67" timestamp="2020-06-14T23:46:37.077+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="young"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="68" timestamp="2020-06-14T23:46:47.090+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="69" timestamp="2020-06-14T23:46:57.078+0200" aspect="Irrigating">
+    <loggedAspect xsi:type="msfs_0401:Irrigating">
+      <spec unit="L" value="1.0"/>
+    </loggedAspect>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="70" timestamp="2020-06-14T23:54:16.807+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="young"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="71" timestamp="2020-06-14T23:54:46.795+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="seedling"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="72" timestamp="2020-06-14T23:54:56.796+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="young"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="73" timestamp="2020-06-14T23:55:46.790+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="adult"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="74" timestamp="2020-06-14T23:55:56.793+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="fruit"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="75" timestamp="2020-06-14T23:56:11.791+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="fruit"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="76" timestamp="2020-06-14T23:56:31.792+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="seedling"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="77" timestamp="2020-06-14T23:56:41.790+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="78" timestamp="2020-06-14T23:56:51.799+0200" aspect="Irrigating">
+    <loggedAspect xsi:type="msfs_0401:Irrigating">
+      <spec unit="L" value="1.0"/>
+    </loggedAspect>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="79" timestamp="2020-06-14T23:57:01.793+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="80" timestamp="2020-06-14T23:57:11.791+0200" aspect="Irrigating">
+    <loggedAspect xsi:type="msfs_0401:Irrigating">
+      <spec unit="L" value="1.0"/>
+    </loggedAspect>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="81" timestamp="2020-06-14T23:57:16.792+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="82" timestamp="2020-06-14T23:57:26.790+0200" aspect="Irrigating">
+    <loggedAspect xsi:type="msfs_0401:Irrigating">
+      <spec unit="L" value="1.0"/>
+    </loggedAspect>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="83" timestamp="2020-06-14T23:57:36.792+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="fruit"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="84" timestamp="2020-06-14T23:57:51.791+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="fruit"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="85" timestamp="2020-06-14T23:58:11.795+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="86" timestamp="2020-06-14T23:58:21.794+0200" aspect="Irrigating">
+    <loggedAspect xsi:type="msfs_0401:Irrigating">
+      <spec unit="L" value="1.0"/>
+    </loggedAspect>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="87" timestamp="2020-06-14T23:58:31.790+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="young"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="88" timestamp="2020-06-14T23:58:41.794+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="adult"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="89" timestamp="2020-06-14T23:58:51.794+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="seedling"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="90" timestamp="2020-06-14T23:59:01.794+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="adult"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="91" timestamp="2020-06-15T00:35:20.633+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="seedling"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="92" timestamp="2020-06-15T00:35:30.612+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="young"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="93" timestamp="2020-06-15T00:35:50.621+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="adult"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="94" timestamp="2020-06-15T00:36:00.618+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="seedling"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="95" timestamp="2020-06-15T00:36:10.613+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="young"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="96" timestamp="2020-06-15T00:36:20.633+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="seedling"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="97" timestamp="2020-06-15T00:36:30.615+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="98" timestamp="2020-06-15T00:36:40.619+0200" aspect="Irrigating">
+    <loggedAspect xsi:type="msfs_0401:Irrigating">
+      <spec unit="L" value="1.0"/>
+    </loggedAspect>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="99" timestamp="2020-06-15T00:36:45.634+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="young"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="100" timestamp="2020-06-15T00:36:55.617+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="seedling"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="101" timestamp="2020-06-15T00:37:05.613+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="adult"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="102" timestamp="2020-06-15T00:37:15.612+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="seedling"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="103" timestamp="2020-06-15T00:37:25.615+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="adult"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="104" timestamp="2020-06-15T00:37:35.615+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="fruit"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="105" timestamp="2020-06-15T00:37:55.612+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="106" timestamp="2020-06-15T00:38:05.613+0200" aspect="Irrigating">
+    <loggedAspect xsi:type="msfs_0401:Irrigating">
+      <spec unit="L" value="1.0"/>
+    </loggedAspect>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="107" timestamp="2020-06-15T00:38:15.614+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="108" timestamp="2020-06-15T00:38:25.612+0200" aspect="Irrigating">
+    <loggedAspect xsi:type="msfs_0401:Irrigating">
+      <spec unit="L" value="1.0"/>
+    </loggedAspect>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="109" timestamp="2020-06-15T00:38:30.614+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="young"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="110" timestamp="2020-06-15T00:38:40.614+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="seedling"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="111" timestamp="2020-06-15T00:38:50.613+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="adult"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="112" timestamp="2020-06-15T00:39:00.616+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="seedling"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="113" timestamp="2020-06-15T01:18:19.220+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="seedling"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="114" timestamp="2020-06-15T01:18:29.209+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="adult"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="115" timestamp="2020-06-15T01:19:39.208+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="116" timestamp="2020-06-15T01:19:49.231+0200" aspect="Irrigating">
+    <loggedAspect xsi:type="msfs_0401:Irrigating">
+      <spec unit="L" value="1.0"/>
+    </loggedAspect>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="117" timestamp="2020-06-15T01:19:59.211+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="fruit"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="118" timestamp="2020-06-15T01:20:19.216+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="119" timestamp="2020-06-15T01:20:29.211+0200" aspect="Irrigating">
+    <loggedAspect xsi:type="msfs_0401:Irrigating">
+      <spec unit="L" value="1.0"/>
+    </loggedAspect>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="120" timestamp="2020-06-15T01:20:34.210+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="seedling"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="121" timestamp="2020-06-15T02:05:43.978+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="adult"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="122" timestamp="2020-06-15T02:05:53.916+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="fruit"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="123" timestamp="2020-06-15T02:08:13.916+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="adult"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="124" timestamp="2020-06-15T02:08:23.915+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="young"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="125" timestamp="2020-06-15T02:08:33.927+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth"/>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="126" timestamp="2020-06-15T02:08:43.917+0200" aspect="Irrigating">
+    <loggedAspect xsi:type="msfs_0401:Irrigating">
+      <spec unit="L" value="1.0"/>
+    </loggedAspect>
+    <position number="4"/>
+  </msfs_0401:Log>
+  <msfs_0401:Log id="127" timestamp="2020-06-15T02:08:53.914+0200" aspect="Plant Growth">
+    <loggedAspect xsi:type="msfs_0401:PlantGrowth" stage="young"/>
+    <position number="27"/>
+  </msfs_0401:Log>
+</xmi:XMI>
