@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="ASCII"?>
+<msfs_0401:GrowProgram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:msfs_0401="http://www.example.org/msfs_0401" name="MyCarrotProgram" plantSpecies="Carrot" creator="max">
+  <seedTreatment>
+    <seeding>
+      <spec unit="cm" value="2.0"/>
+    </seeding>
+    <replanting>
+      <spec unit="week(s)" value="2.0"/>
+    </replanting>
+    <soilAcidity>
+      <spec unit="pH" value="4.0"/>
+    </soilAcidity>
+    <irrigating>
+      <spec unit="L" value="1.0"/>
+      <period unit="day(s)" value="1.0"/>
+    </irrigating>
+    <soilHumidity>
+      <spec unit="%" value="70.0"/>
+    </soilHumidity>
+    <fertilizing fertilizer="Urea" repetitions="3">
+      <spec unit="TS" value="2.0"/>
+      <period unit="day(s)" value="3.0"/>
+    </fertilizing>
+  </seedTreatment>
+  <seedlingTreatment>
+    <soilAcidity>
+      <spec unit="pH" value="4.0"/>
+    </soilAcidity>
+    <irrigating>
+      <spec unit="L" value="1.0"/>
+      <period unit="day(s)" value="2.0"/>
+    </irrigating>
+    <soilHumidity>
+      <spec unit="%" value="60.0"/>
+    </soilHumidity>
+    <fertilizing fertilizer="Urea" repetitions="2">
+      <spec unit="TS" value="2.0"/>
+      <period unit="day(s)" value="5.0"/>
+    </fertilizing>
+  </seedlingTreatment>
+  <youngTreatment>
+    <soilAcidity>
+      <spec unit="pH" value="4.0"/>
+    </soilAcidity>
+    <irrigating>
+      <spec unit="L" value="1.0"/>
+      <period unit="day(s)" value="2.0"/>
+    </irrigating>
+    <soilHumidity>
+      <spec unit="%" value="50.0"/>
+    </soilHumidity>
+    <fertilizing fertilizer="Urea" repetitions="2">
+      <spec unit="TS" value="2.0"/>
+      <period unit="day(s)" value="7.0"/>
+    </fertilizing>
+  </youngTreatment>
+  <adultTreatment>
+    <soilAcidity>
+      <spec unit="pH" value="4.0"/>
+    </soilAcidity>
+    <irrigating>
+      <spec unit="L" value="0.5"/>
+      <period unit="day(s)" value="3.0"/>
+    </irrigating>
+    <fertilizing fertilizer="Urea" repetitions="2">
+      <spec unit="TS" value="1.0"/>
+      <period unit="day(s)" value="7.0"/>
+    </fertilizing>
+    <soilHumidity>
+      <spec unit="%" value="60.0"/>
+    </soilHumidity>
+  </adultTreatment>
+  <fruitTreatment>
+    <harvesting mode="manual"/>
+  </fruitTreatment>
+</msfs_0401:GrowProgram>

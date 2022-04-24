@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:msfs_0401="http://www.example.org/msfs_0401">
+  <msfs_0401:MicroFarmer firstname="Max" lastname="Mustermann" username="max" password="$2y$12$tiM5YdGKmlKspDADuMnasuAeiAGNufMJNdoGuYa09j11tFzjPaXsm">
+    <type>
+      <roles>ROLE_FARMER</roles>
+      <roles>ROLE_CONSUMER</roles>
+      <roles>ROLE_SEEDSUPPLIER</roles>
+    </type>
+  </msfs_0401:MicroFarmer>
+  <msfs_0401:DeviceSupplier id="1" firstname="Joe" lastname="Smith" username="joe" password="$2y$12$bn2HcMKxyF0f7qOAVJz1q.3ZXQ04SeMrOTgZu1F2zLXumSdrub/4W" company="Farmergenics" contact="joe.smith@gmail.com">
+    <type>
+      <roles>ROLE_DEVICESUPPLIER</roles>
+    </type>
+  </msfs_0401:DeviceSupplier>
+</xmi:XMI>

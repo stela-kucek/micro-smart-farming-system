@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Msfsdemo
+Bundle-SymbolicName: msfsdemo
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: msfsdemo
+Bundle-RequiredExecutionEnvironment: JavaSE-10
+Require-Bundle: org.eclipse.emf.ecore.source;bundle-version="2.21.0",
+ org.eclipse.emf.ecore.xmi;bundle-version="2.16.0",
+ msfs_0401;bundle-version="0.1.0",
+ org.xtext.ase0401.gpdsl
+

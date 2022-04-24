@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:msfs_0401="http://www.example.org/msfs_0401">
+  <msfs_0401:Plant price="120.4" forSale="true" owner="max" quantity="1">
+    <species name="Carrot" scientificName="Daucus carota subsp. sativus"/>
+  </msfs_0401:Plant>
+  <msfs_0401:Plant id="1" price="123.2" forSale="true" owner="max" quantity="6">
+    <species name="Tomato" scientificName="Solanum lycopersicum"/>
+  </msfs_0401:Plant>
+  <msfs_0401:Plant id="2" price="2.0" forSale="true" owner="max" quantity="3">
+    <species name="Jalape&#xf1;o" scientificName="Capsicum annuum 'Jalape&#xf1;o'"/>
+  </msfs_0401:Plant>
+</xmi:XMI>

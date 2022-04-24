@@ -1,0 +1,57 @@
+Grow program MyCarrotProgram
+Plant Carrot
+SEED
+	Seeding
+		seed at 2 cm
+	Replanting
+		plant out after 2 week(s)
+	Irrigating
+		water every 1 day(s)
+		amount: 1 L
+	Fertilizing
+		fertilizer: 'Urea'
+		amount: 2 TS
+		apply every 3 day(s), 3 times
+	Soil humidity
+		ideally 70%
+	Soil acidity
+		ideally pH 4
+SEEDLING
+	Irrigating
+		water every 2 day(s)
+		amount: 1 L
+	Fertilizing
+		fertilizer: 'Urea'
+		amount: 2 TS
+		apply every 5 day(s), 2 times
+	Soil humidity
+		ideally 60%
+	Soil acidity
+		ideally pH 4
+YOUNG
+	Irrigating
+		water every 2 day(s)
+		amount: 1 L
+	Fertilizing
+		fertilizer: 'Urea'
+		amount: 2 TS
+		apply every 7 day(s), 2 times
+	Soil humidity
+		ideally 50%
+	Soil acidity
+		ideally pH 4
+ADULT
+	Irrigating
+		water every 3 day(s)
+		amount: 0.5 L
+	Fertilizing
+		fertilizer: 'Urea'
+		amount: 1 TS
+		apply every 7 day(s), 2 times
+	Soil humidity
+		ideally 60%
+	Soil acidity
+		ideally pH 4
+FRUIT
+	Harvesting
+		mode: manual

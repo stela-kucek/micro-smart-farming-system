@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:msfs_0401="http://www.example.org/msfs_0401">
+  <msfs_0401:FarmingSite name="Farming Site East" owner="max" assignedDevice="Bot 0">
+    <positions number="1"/>
+    <positions number="2"/>
+    <positions number="3"/>
+    <positions number="4"/>
+    <positions number="5"/>
+    <positions number="6"/>
+    <positions number="7"/>
+    <positions number="8"/>
+    <positions number="9"/>
+    <positions number="10"/>
+    <positions number="11"/>
+    <positions number="12"/>
+    <positions number="13"/>
+    <positions number="14"/>
+    <positions number="15"/>
+    <positions number="16"/>
+    <positions number="17"/>
+    <positions number="18"/>
+    <positions number="19"/>
+    <positions number="20"/>
+    <positions number="21"/>
+    <positions number="22"/>
+    <positions number="23"/>
+    <positions number="24"/>
+    <positions number="25"/>
+    <positions number="26"/>
+    <positions number="27"/>
+    <positions number="28"/>
+    <positions number="29"/>
+    <positions number="30"/>
+    <positions number="31"/>
+    <positions number="32"/>
+    <positions number="33"/>
+    <positions number="34"/>
+    <positions number="35"/>
+    <positions number="36"/>
+    <positions number="37"/>
+    <positions number="38"/>
+    <positions number="39"/>
+    <positions number="40"/>
+    <positions number="41"/>
+    <positions number="42"/>
+    <positions number="43"/>
+    <positions number="44"/>
+    <positions number="45"/>
+    <positions number="46"/>
+    <positions number="47"/>
+    <positions number="48"/>
+    <positions number="49"/>
+    <positions number="50"/>
+    <positions number="51"/>
+    <positions number="52"/>
+    <positions number="53"/>
+    <positions number="54"/>
+    <positions number="55"/>
+    <currentLayout>
+      <mappings position="1" plant=""/>
+      <mappings position="2" plant=""/>
+      <mappings position="3" plant=""/>
+      <mappings position="4" plant="Carrot"/>
+      <mappings position="5" plant=""/>
+      <mappings position="6" plant=""/>
+      <mappings position="7" plant=""/>
+      <mappings position="8" plant=""/>
+      <mappings position="9" plant=""/>
+      <mappings position="10" plant=""/>
+      <mappings position="11" plant=""/>
+      <mappings position="12" plant=""/>
+      <mappings position="13" plant=""/>
+      <mappings position="14" plant=""/>
+      <mappings position="15" plant=""/>
+      <mappings position="16" plant=""/>
+      <mappings position="17" plant=""/>
+      <mappings position="18" plant=""/>
+      <mappings position="19" plant=""/>
+      <mappings position="20" plant=""/>
+      <mappings position="21" plant=""/>
+      <mappings position="22" plant=""/>
+      <mappings position="23" plant=""/>
+      <mappings position="24" plant=""/>
+      <mappings position="25" plant=""/>
+      <mappings position="26" plant=""/>
+      <mappings position="27" plant="Carrot"/>
+      <mappings position="28" plant=""/>
+      <mappings position="29" plant=""/>
+      <mappings position="30" plant=""/>
+      <mappings position="31" plant=""/>
+      <mappings position="32" plant=""/>
+      <mappings position="33" plant=""/>
+      <mappings position="34" plant=""/>
+      <mappings position="35" plant=""/>
+      <mappings position="36" plant=""/>
+      <mappings position="37" plant=""/>
+      <mappings position="38" plant=""/>
+      <mappings position="39" plant=""/>
+      <mappings position="40" plant=""/>
+      <mappings position="41" plant=""/>
+      <mappings position="42" plant=""/>
+      <mappings position="43" plant=""/>
+      <mappings position="44" plant=""/>
+      <mappings position="45" plant=""/>
+      <mappings position="46" plant=""/>
+      <mappings position="47" plant=""/>
+      <mappings position="48" plant=""/>
+      <mappings position="49" plant=""/>
+      <mappings position="50" plant=""/>
+      <mappings position="51" plant=""/>
+      <mappings position="52" plant=""/>
+      <mappings position="53" plant=""/>
+      <mappings position="54" plant=""/>
+      <mappings position="55" plant=""/>
+    </currentLayout>
+  </msfs_0401:FarmingSite>
+  <msfs_0401:FarmingSite id="1" name="Farming Site West" owner="max">
+    <positions number="1"/>
+    <positions number="2"/>
+    <positions number="3"/>
+    <positions number="4"/>
+    <positions number="5"/>
+    <positions number="6"/>
+    <positions number="7"/>
+    <positions number="8"/>
+    <positions number="9"/>
+    <positions number="10"/>
+    <positions number="11"/>
+    <positions number="12"/>
+    <positions number="13"/>
+    <positions number="14"/>
+    <positions number="15"/>
+    <positions number="16"/>
+    <positions number="17"/>
+    <positions number="18"/>
+    <positions number="19"/>
+    <positions number="20"/>
+    <positions number="21"/>
+    <positions number="22"/>
+    <positions number="23"/>
+    <positions number="24"/>
+    <positions number="25"/>
+    <positions number="26"/>
+    <positions number="27"/>
+    <positions number="28"/>
+    <positions number="29"/>
+    <positions number="30"/>
+    <positions number="31"/>
+    <positions number="32"/>
+    <positions number="33"/>
+    <positions number="34"/>
+    <positions number="35"/>
+    <positions number="36"/>
+    <positions number="37"/>
+    <positions number="38"/>
+    <positions number="39"/>
+    <positions number="40"/>
+    <positions number="41"/>
+    <positions number="42"/>
+    <positions number="43"/>
+    <positions number="44"/>
+    <positions number="45"/>
+    <positions number="46"/>
+    <positions number="47"/>
+    <positions number="48"/>
+    <positions number="49"/>
+    <positions number="50"/>
+    <positions number="51"/>
+    <positions number="52"/>
+    <positions number="53"/>
+    <positions number="54"/>
+    <positions number="55"/>
+    <currentLayout>
+      <mappings position="1" plant=""/>
+      <mappings position="2" plant=""/>
+      <mappings position="3" plant=""/>
+      <mappings position="4" plant=""/>
+      <mappings position="5" plant=""/>
+      <mappings position="6" plant=""/>
+      <mappings position="7" plant=""/>
+      <mappings position="8" plant=""/>
+      <mappings position="9" plant=""/>
+      <mappings position="10" plant=""/>
+      <mappings position="11" plant=""/>
+      <mappings position="12" plant=""/>
+      <mappings position="13" plant=""/>
+      <mappings position="14" plant=""/>
+      <mappings position="15" plant=""/>
+      <mappings position="16" plant=""/>
+      <mappings position="17" plant=""/>
+      <mappings position="18" plant=""/>
+      <mappings position="19" plant=""/>
+      <mappings position="20" plant=""/>
+      <mappings position="21" plant=""/>
+      <mappings position="22" plant=""/>
+      <mappings position="23" plant=""/>
+      <mappings position="24" plant=""/>
+      <mappings position="25" plant=""/>
+      <mappings position="26" plant=""/>
+      <mappings position="27" plant=""/>
+      <mappings position="28" plant=""/>
+      <mappings position="29" plant=""/>
+      <mappings position="30" plant=""/>
+      <mappings position="31" plant=""/>
+      <mappings position="32" plant=""/>
+      <mappings position="33" plant=""/>
+      <mappings position="34" plant=""/>
+      <mappings position="35" plant=""/>
+      <mappings position="36" plant=""/>
+      <mappings position="37" plant=""/>
+      <mappings position="38" plant=""/>
+      <mappings position="39" plant=""/>
+      <mappings position="40" plant=""/>
+      <mappings position="41" plant=""/>
+      <mappings position="42" plant=""/>
+      <mappings position="43" plant=""/>
+      <mappings position="44" plant=""/>
+      <mappings position="45" plant=""/>
+      <mappings position="46" plant=""/>
+      <mappings position="47" plant=""/>
+      <mappings position="48" plant=""/>
+      <mappings position="49" plant=""/>
+      <mappings position="50" plant=""/>
+      <mappings position="51" plant=""/>
+      <mappings position="52" plant=""/>
+      <mappings position="53" plant=""/>
+      <mappings position="54" plant=""/>
+      <mappings position="55" plant=""/>
+    </currentLayout>
+  </msfs_0401:FarmingSite>
+</xmi:XMI>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:msfs_0401="http://www.example.org/msfs_0401">
+  <msfs_0401:FarmingDevice name="Bot 0" supplier="Farmergenics" assignedSite="Farming Site East" owner="max">
+    <maintenanceData batteryLevel="96.4" operationHours="36" firmwareVersion="V1"/>
+    <capabilities type="action" name="Irrigating"/>
+    <capabilities type="action" name="Seeding"/>
+    <capabilities name="Soil Humidity"/>
+    <capabilities name="PlantGrowth"/>
+    <capabilities type="action" name="Fertilizing"/>
+  </msfs_0401:FarmingDevice>
+  <msfs_0401:FarmingDevice id="1" name="Bot 1" supplier="Farmergenics" owner="max">
+    <maintenanceData firmwareVersion="V1"/>
+    <capabilities type="action" name="Irrigating"/>
+    <capabilities type="action" name="Seeding"/>
+    <capabilities name="Soil Humidity"/>
+    <capabilities name="PlantGrowth"/>
+    <capabilities type="action" name="Fertilizing"/>
+  </msfs_0401:FarmingDevice>
+</xmi:XMI>
